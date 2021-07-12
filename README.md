@@ -1,4 +1,4 @@
-# PlaywrightTest-Using-TestFixtures
+# PlaywrightTest-TestFixtures-Example
 Test Execution failing with test fixtures
 
 - Install dependecy using:
